@@ -53,6 +53,11 @@ The project includes a **3-page Excel dashboard**:
 
 ##  Dashboard Preview
 Screenshots are available in the `screenshots` folder.
+<img width="1919" height="806" alt="Pg1-Overview" src="https://github.com/user-attachments/assets/e7b000ac-a424-4c8b-b936-801e5761b130" />
+<img width="1919" height="798" alt="Pg2" src="https://github.com/user-attachments/assets/80ab13f1-9e79-4cf9-adf1-12d00e478702" />
+<img width="1919" height="800" alt="Pg3" src="https://github.com/user-attachments/assets/7c74ef2a-f2ed-4448-b637-c75cc1e6115b" />
+
+
 
 ---
 
